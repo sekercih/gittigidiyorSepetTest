@@ -1,0 +1,327 @@
+2022-06-09 20:44:34 INFO  Log4j:10 - Test is Starting...
+2022-06-09 20:44:34 INFO  Log4j:15 - Test is Ending...
+2022-06-09 20:46:21 INFO  Log4j:10 - Test is Starting...
+2022-06-09 20:46:21 INFO  Log4j:15 - Test is Ending...
+2022-06-09 20:47:39 INFO  Log4j:10 - Test is Starting...
+2022-06-09 20:47:39 INFO  Log4j:15 - Test is Ending...
+2022-06-09 20:50:19 INFO  Log4j:10 - Test is Starting...
+2022-06-09 20:50:19 INFO  Log4j:15 - Test is Ending...
+2022-06-09 20:54:02 INFO  Log4j:10 - Test is Starting...
+2022-06-09 20:54:02 INFO  Log4j:15 - Test is Ending...
+2022-06-09 21:13:04 INFO  Log4j:10 - Test is Starting...
+2022-06-09 21:13:05 INFO  Log4j:15 - Test is Ending...
+2022-06-09 21:14:01 INFO  Log4j:10 - Test is Starting...
+2022-06-09 21:14:03 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 21:14:04 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 21:14:18 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 21:14:36 INFO  Log4j:20 - Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir
+2022-06-09 21:14:38 INFO  Log4j:20 - Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazılır
+2022-06-09 21:14:42 INFO  Log4j:20 - Seçilen ürün sepete eklenir
+2022-06-09 21:14:46 INFO  Log4j:15 - Test is Ending...
+2022-06-09 22:48:48 INFO  Log4j:10 - Test is Starting...
+2022-06-09 22:48:51 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 22:48:51 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 22:49:05 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 22:49:08 INFO  Log4j:15 - Test is Ending...
+2022-06-09 22:51:25 INFO  Log4j:10 - Test is Starting...
+2022-06-09 22:51:27 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 22:51:28 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 22:51:31 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 22:51:35 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:05:01 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:05:03 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:05:04 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:05:09 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:05:16 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:05:18 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:05:22 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-09 23:05:26 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:07:13 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:07:14 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:07:15 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:07:20 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:08:56 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:08:57 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:08:58 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:09:03 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:09:33 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:09:36 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:09:36 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:09:43 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:11:19 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:11:21 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:11:21 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:11:26 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:12:52 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:12:54 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:12:54 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:12:59 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:15:50 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:15:52 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:15:52 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:16:00 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:16:08 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:16:10 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:16:15 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-09 23:16:18 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:21:38 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:21:40 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:21:40 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:21:48 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:21:56 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:21:58 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:22:02 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:22:23 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:22:24 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:22:24 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:22:31 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:22:41 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:22:43 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:22:46 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:24:41 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:24:43 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:24:43 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:24:52 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:24:59 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:25:02 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:25:06 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-09 23:25:10 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:48:16 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:48:18 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:48:19 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:48:27 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:48:34 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:48:36 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:48:41 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-09 23:48:44 INFO  Log4j:20 - Ürün sayfasındaki fiyat ile sepetteki ürün fiyatinin doğrulugu karşilasilastirdik
+2022-06-09 23:48:46 INFO  Log4j:20 - Ürün sayisi arttırılarak ürün adedinin 2 olduğu doğrulanır
+2022-06-09 23:48:52 INFO  Log4j:20 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir
+2022-06-09 23:48:52 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:54:23 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:54:25 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:54:25 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:54:32 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:54:39 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:54:41 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:54:45 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-09 23:54:48 INFO  Log4j:20 - Ürün sayfasındaki fiyat ile sepetteki ürün fiyatinin doğrulugu karşilasilastirdik
+2022-06-09 23:54:51 INFO  Log4j:15 - Test is Ending...
+2022-06-09 23:55:12 INFO  Log4j:10 - Test is Starting...
+2022-06-09 23:55:13 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-09 23:55:13 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-09 23:55:20 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-09 23:55:27 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-09 23:55:29 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-09 23:55:33 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-09 23:55:36 INFO  Log4j:20 - Ürün sayfasındaki fiyat ile sepetteki ürün fiyatinin doğrulugu karşilasilastirdik
+2022-06-09 23:55:38 INFO  Log4j:20 - Ürün sayisi arttırılarak ürün adedinin 2 olduğu doğrulanır
+2022-06-09 23:55:44 INFO  Log4j:20 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir
+2022-06-09 23:55:44 INFO  Log4j:15 - Test is Ending...
+2022-06-10 10:44:40 INFO  Log4j:10 - Test is Starting...
+2022-06-10 10:44:42 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 10:44:43 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 10:44:50 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 10:44:59 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 10:45:01 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 10:45:06 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 10:45:09 INFO  Log4j:20 - Ürün sayfasındaki fiyat ile sepetteki ürün fiyatinin doğrulugu karşilasilastirdik
+2022-06-10 10:45:12 INFO  Log4j:20 - Ürün sayisi arttırılarak ürün adedinin 2 olduğu doğrulanır
+2022-06-10 10:45:17 INFO  Log4j:20 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir
+2022-06-10 10:45:17 INFO  Log4j:15 - Test is Ending...
+2022-06-10 10:48:00 INFO  Log4j:10 - Test is Starting...
+2022-06-10 10:48:01 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 10:48:01 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 10:48:08 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 10:48:17 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 10:48:19 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 10:48:24 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 10:48:27 INFO  Log4j:20 - Ürün sayfasındaki fiyat ile sepetteki ürün fiyatinin doğrulugu karşilasilastirdik
+2022-06-10 10:48:29 INFO  Log4j:15 - Test is Ending...
+2022-06-10 11:33:03 INFO  Log4j:10 - Test is Starting...
+2022-06-10 11:33:05 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 11:33:06 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 11:33:13 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 11:33:20 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 11:33:22 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 11:33:26 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 11:33:30 INFO  Log4j:20 - Ürün sayfasındaki fiyat ile sepetteki ürün fiyatinin doğrulugu karşilasilastirdik
+2022-06-10 11:33:42 INFO  Log4j:15 - Test is Ending...
+2022-06-10 11:40:03 INFO  Log4j:10 - Test is Starting...
+2022-06-10 11:40:05 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 11:40:05 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 11:40:13 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 11:40:20 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 11:40:22 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 11:40:26 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 11:42:36 INFO  Log4j:10 - Test is Starting...
+2022-06-10 11:42:38 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 11:42:38 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 11:42:45 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 11:42:54 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 11:42:56 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 11:43:01 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 11:43:05 INFO  Log4j:15 - Test is Ending...
+2022-06-10 12:01:08 INFO  Log4j:10 - Test is Starting...
+2022-06-10 12:01:11 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 12:01:11 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 12:01:19 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 12:01:25 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 12:01:28 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 12:01:32 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 12:01:36 INFO  Log4j:15 - Test is Ending...
+2022-06-10 12:06:14 INFO  Log4j:10 - Test is Starting...
+2022-06-10 12:06:16 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 12:06:16 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 12:06:24 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 12:06:34 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 12:06:36 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 12:06:40 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 12:06:54 INFO  Log4j:15 - Test is Ending...
+2022-06-10 12:08:31 INFO  Log4j:10 - Test is Starting...
+2022-06-10 12:08:33 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 12:08:33 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 12:08:41 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 12:08:53 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 12:08:55 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 12:08:57 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 12:09:10 INFO  Log4j:15 - Test is Ending...
+2022-06-10 12:15:35 INFO  Log4j:10 - Test is Starting...
+2022-06-10 12:15:36 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 12:15:37 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 12:15:44 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 12:15:57 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 12:16:00 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 12:16:02 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 12:16:15 INFO  Log4j:15 - Test is Ending...
+2022-06-10 12:25:37 INFO  Log4j:15 - Test is Ending...
+2022-06-10 12:27:37 INFO  Log4j:10 - Test is Starting...
+2022-06-10 12:27:40 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 12:27:40 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 12:27:49 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 12:27:55 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 12:27:57 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 12:28:00 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 12:28:13 INFO  Log4j:15 - Test is Ending...
+2022-06-10 12:36:18 INFO  Log4j:10 - Test is Starting...
+2022-06-10 12:36:21 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 12:36:22 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 12:36:30 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 12:36:37 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 12:36:39 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 12:36:41 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 12:36:55 INFO  Log4j:15 - Test is Ending...
+2022-06-10 13:47:39 INFO  Log4j:10 - Test is Starting...
+2022-06-10 13:47:41 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 13:47:41 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 13:47:48 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 13:47:55 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 13:47:57 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 13:48:00 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 13:48:13 INFO  Log4j:15 - Test is Ending...
+2022-06-10 17:24:31 INFO  Log4j:10 - Test is Starting...
+2022-06-10 17:24:34 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 17:24:34 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 17:24:41 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 17:24:48 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 17:24:50 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 17:24:53 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 17:25:06 INFO  Log4j:15 - Test is Ending...
+2022-06-10 18:12:37 INFO  Log4j:10 - Test is Starting...
+2022-06-10 18:12:39 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 18:12:40 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 18:12:40 INFO  Log4j:15 - Test is Ending...
+2022-06-10 18:13:25 INFO  Log4j:10 - Test is Starting...
+2022-06-10 18:13:26 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 18:13:27 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 18:13:34 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 18:13:42 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 18:13:44 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 18:13:46 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 18:13:59 INFO  Log4j:15 - Test is Ending...
+2022-06-10 18:30:52 INFO  Log4j:10 - Test is Starting...
+2022-06-10 18:30:54 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 18:30:54 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 18:31:02 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 18:31:09 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 18:31:11 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 18:31:13 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 18:31:26 INFO  Log4j:15 - Test is Ending...
+2022-06-10 19:10:48 INFO  Log4j:10 - Test is Starting...
+2022-06-10 19:10:57 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 19:10:57 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 19:11:23 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 19:11:39 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 19:11:41 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 19:11:43 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 19:11:58 INFO  Log4j:15 - Test is Ending...
+2022-06-10 19:45:41 INFO  Log4j:10 - Test is Starting...
+2022-06-10 19:45:45 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 19:45:46 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 19:46:00 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 19:46:13 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 19:46:15 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 19:46:18 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 19:53:17 INFO  Log4j:10 - Test is Starting...
+2022-06-10 19:53:23 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 19:53:23 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 19:53:38 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 19:53:47 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 19:53:49 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 19:54:02 INFO  Log4j:15 - Test is Ending...
+2022-06-10 19:55:40 INFO  Log4j:10 - Test is Starting...
+2022-06-10 19:55:44 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 19:55:44 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 19:56:02 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 19:56:13 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 19:56:15 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 19:56:18 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 19:56:54 INFO  Log4j:15 - Test is Ending...
+2022-06-10 19:58:10 INFO  Log4j:10 - Test is Starting...
+2022-06-10 19:58:17 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 19:58:18 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 19:58:35 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 19:58:48 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 19:58:50 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 19:58:53 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 19:59:10 INFO  Log4j:15 - Test is Ending...
+2022-06-10 20:02:10 INFO  Log4j:10 - Test is Starting...
+2022-06-10 20:02:15 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 20:02:16 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 20:02:31 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 20:02:40 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 20:02:42 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 20:02:47 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 20:03:11 INFO  Log4j:15 - Test is Ending...
+2022-06-10 20:06:43 INFO  Log4j:10 - Test is Starting...
+2022-06-10 20:06:48 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 20:06:48 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 20:07:03 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 20:07:17 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 20:07:19 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 20:07:21 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 20:07:51 INFO  Log4j:15 - Test is Ending...
+2022-06-10 20:09:48 INFO  Log4j:10 - Test is Starting...
+2022-06-10 20:09:59 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 20:10:00 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 20:10:18 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 20:10:34 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 20:10:36 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 20:10:45 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 20:11:03 INFO  Log4j:15 - Test is Ending...
+2022-06-10 20:15:39 INFO  Log4j:10 - Test is Starting...
+2022-06-10 20:15:45 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 20:15:45 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 20:16:08 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 20:16:19 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 20:16:22 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 20:16:31 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 20:16:36 INFO  Log4j:20 - Ürün sayfasındaki fiyat ile sepetteki ürün fiyatinin doğrulugu karşilasilastirdik
+2022-06-10 20:16:49 INFO  Log4j:15 - Test is Ending...
+2022-06-10 20:19:25 INFO  Log4j:10 - Test is Starting...
+2022-06-10 20:19:38 INFO  Log4j:20 - Opening Page : https://www.gittigidiyor.com
+2022-06-10 20:19:39 INFO  Log4j:20 - Arama kutucuğuna bilgisayar kelimesi girilir.
+2022-06-10 20:19:57 INFO  Log4j:20 - Arama sonuçları sayfasından 2. sayfa açılır
+2022-06-10 20:20:08 INFO  Log4j:20 - Sonuca göre 2. sayfadan rastgele bir ürün sectik
+2022-06-10 20:20:10 INFO  Log4j:20 - secilen ürünün etiketini ve Fiyatını dosyaya yazdırdık
+2022-06-10 20:20:20 INFO  Log4j:20 - Seçilen ürünü sepete ekliyoruz
+2022-06-10 20:20:27 INFO  Log4j:15 - Test is Ending...
