@@ -1,6 +1,7 @@
 package stepdefinitions;
 
 
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -94,8 +95,20 @@ public class StepDefinitions {
         secilenUrunBasligi=productPage.producTitleOne.getText().toLowerCase();
         secilenUrunAltBasligi=basketPage.secilenUrunBilgisiWebelement.getText().toLowerCase();
         fiyat=basketPage.FiyatWebelement.getText().toLowerCase();
+//if (basketPage.stok.getText().>1){
 
-      productPage.addToBasket();
+//}
+        String number=basketPage.stok.getText();
+        String depo=number.replaceAll("\\D","");
+        int sayi=Integer.valueOf(depo);
+      if (sayi>1){
+          productPage.addToBasket();
+
+      }else {
+          sonuca_göre_sergilenen_ürünlerden_rastgele_bir_ürün_seçilir();
+      }
+        System.out.println(">>>>>>number= "+ number.replaceAll("\\D",""));
+
         Log4j.info("Seçilen ürünü sepete ekliyoruz");
 
     }
@@ -104,7 +117,19 @@ public class StepDefinitions {
     public void ürün_sayfasındaki_fiyat_ile_sepette_yer_alan_ürün_fiyatının_doğruluğu_karşılaştırılır() throws FileNotFoundException {
         ReusableMethods.waitForClickablility(homePage.Sepetim, 10);
         ReusableMethods.clickWithJS(homePage.Sepetim);
-        ReusableMethods.waitFor(2);
+        ReusableMethods.waitFor(5);
+
+        String gercek1= basketPage.secilenUrunAltBasligi.getText();
+        System.out.println("gercek1 = " + gercek1);
+        String gercek= basketPage.secilenUrunUstBasligi.getText();
+        System.out.println("gercek = " + gercek);
+        String gercek2=basketPage.title.getText().toLowerCase();
+        if (gercek.equals(gercek2)){
+            ReusableMethods.waitFor(3);
+            basketPage.dropdownElement.getAttribute("2");
+
+            basketPage.delete.click();
+        }
         //basketPage.compareProductInformation();
         String actualUrunTitle = basketPage.productName.getText().toLowerCase();
         String actualUrunFiyat = basketPage.productPrice.getText().toLowerCase();
@@ -146,4 +171,7 @@ public class StepDefinitions {
 
     }
 
+    @And("Secilen urun alt baslik ve ust baslık")
+    public void secilenUrunAltBaslikVeUstBaslık() {
+    }
 }

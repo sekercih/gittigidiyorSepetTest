@@ -19,10 +19,10 @@ public class ProductPage extends BasePage {
     @FindBy(id = "add-to-basket")
     public WebElement addToBasketButton;
 
-    @FindBy(css = "#sp-subTitle")
+    @FindBy(id = "sp-title")
     public WebElement productInfo;
 
-    @FindBy(css = "#sp-price-lowPrice")
+    @FindBy(id = "sp-subTitle")
     public WebElement productPrice;
 
 

@@ -19,10 +19,22 @@ public class BasketPage{
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
+    @FindBy(className = "remainingCount")
+    public WebElement stok;
+
+    @FindBy(xpath = "//*[@id=\"sp-title\"]")
+    public WebElement secilenUrunUstBasligi;
+
+    @FindBy(xpath = "//*[@id=\"sp-subTitle\"]")
+    public WebElement secilenUrunAltBasligi;
+
+    @FindBy(xpath = "//*[@id=\"cart-item-532593546\"]/div[1]/div[3]/div/a/h2")
+    public WebElement title;
+
     @FindBy(xpath = "//select[@class='amount']")
     public WebElement dropdownElement;
 
-    @FindBy(xpath = "//a[@title='Sil']")
+    @FindBy(xpath = "//i[@class=\"gg-icon gg-icon-bin-medium\"]")
     public WebElement delete;
 
     @FindBy(xpath = "//*[@id='empty-cart-container']//h2")
